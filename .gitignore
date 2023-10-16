@@ -1,0 +1,5 @@
+api_with_restrictions/.env
+api_with_restrictions/.idea
+api_with_restrictions/.github
+venv
+.idea
